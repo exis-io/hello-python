@@ -1,0 +1,2 @@
+Base: exis-python:r2
+Command: python -m example.example
