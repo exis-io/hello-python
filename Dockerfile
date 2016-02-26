@@ -1,5 +1,2 @@
-FROM exis/exis-python:r2
-MAINTAINER Lance Hartung
-
-# Go run it.
+FROM exis/exis-python
 CMD ["python", "-m", "example.example"]
